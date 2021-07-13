@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoussBdlh
 - 👀 I’m interested in learning web design and web development
-- 🌱 I’m currently learning django the python fraamework
+- 🌱 I’m currently learning django the python framework
 
 
 <!---
